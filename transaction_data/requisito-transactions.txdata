@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "requisitoExists",
+        "transactionLabel": "A test requisitoExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createRequisito",
+        "transactionLabel": "A test createRequisito transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readRequisito",
+        "transactionLabel": "A test readRequisito transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateRequisito",
+        "transactionLabel": "A test updateRequisito transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteRequisito",
+        "transactionLabel": "A test deleteRequisito transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
